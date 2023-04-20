@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD:Assets/Plugins/Android.meta
+guid: 071b1434807d7cb4cb6a68afa213d36a
+=======
+guid: f2c68de526cc19a448390e700edd3aa8
+>>>>>>> 49bdb3f6a4539bda8ed345745c6c81ed7c8c4ca9:Assets/app/common/presets.meta
+=======
+guid: 071b1434807d7cb4cb6a68afa213d36a
+>>>>>>> 49bdb3f6a4539bda8ed345745c6c81ed7c8c4ca9
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
